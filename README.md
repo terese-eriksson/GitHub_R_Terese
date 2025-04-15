@@ -1,3 +1,3 @@
-Kunskapskontroller i kursen R-programmering 
+Kunskapskontroller i kursen R-programmering.
 
 Terese Eriksson
